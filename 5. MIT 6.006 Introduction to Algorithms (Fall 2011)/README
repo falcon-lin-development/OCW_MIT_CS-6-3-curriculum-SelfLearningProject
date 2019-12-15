@@ -25,4 +25,8 @@ What I have learned(Only in a high level/ Conceptual level):
 
 Learning tips through OCW:
 The materials are complete for this course. You can learn a lot here. Following the 
-videos then you are good.
+videos then you are good. 
+However, the assignment code are written in python2 which is not compatible with python3.
+Beginners may install the python2 environment in order to get started. 
+You may find this YouTube Tutorial(https://www.youtube.com/watch?v=56bPIGf4us0)
+and StackOverflow helpful.
