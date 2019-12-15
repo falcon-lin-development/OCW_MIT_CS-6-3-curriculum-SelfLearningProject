@@ -1,0 +1,15 @@
+t1,BEFORE,19 Oct 2016 15:00:00
+t2,AFTER,19 Oct 2016 09:00:00
+//
+t3,AND,t1,t2
+
+//
+t4,TITLE,debate
+
+t5,DESCRIPTION,Trump
+t6,DESCRIPTION,Clinton
+
+//
+t7,AND,t5,t6
+
+ADD,t3,t4,t7

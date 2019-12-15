@@ -1,0 +1,35 @@
+Course Name: 
+Computation Structure(Fall 2018)
+
+Course Code:
+6.004
+
+Course Website:
+https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu
+
+You can find:
+- lectures videos
+
+
+Missing:
+- All Lab materials 
+- assignment and solution
+- All Notes
+- Recitations
+
+What I have learned(Only in a high level/ Conceptual level):
+- Gate and Circuit
+- Hardware Design
+- Processor and Memory
+- The use of ISA
+
+Learning tips through OCW:
+This was suppose to be a fun course because students have a chance to design their
+own processor. But it is a too good to be true for self-learners like us.
+
+What we can get instead is a high level concept of how hardware are implemented and
+how do hardware cooperate with software. The bridge(technical term is contract)
+between them is called Instruction Set Architecture(ISA). This course will help
+you build a complete view of low level computer architecture. How circuit and electricity
+are turned into a multi-purpose computer. 
+

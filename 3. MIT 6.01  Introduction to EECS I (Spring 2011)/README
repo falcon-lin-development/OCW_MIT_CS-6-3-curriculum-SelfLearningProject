@@ -1,0 +1,33 @@
+Course Name: 
+Introduction to EECS I (Spring 2011)
+
+Course Code:
+6.01
+
+Course Website:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
+
+You can find:
+- lectures videos
+- Recitation videos
+- assignments
+- Exams and Solution
+
+Missing:
+- All Lab materials 
+- assignment solution
+
+What I have learned:
+- State Machine
+- Circuits(physics)
+- delay
+- feedback system
+
+Learning tips through OCW:
+Starting from here, self-learning start getting difficult because critique materials
+are incomplete. 
+As a self-learner, we rely heavily on text book explanation. I highly recommend you
+to rewrite the whole StateMachine following the guidelines in the textbook. Since the 
+MIT Library are private and the robot wouldn't be acessible, the hands-on module2 will
+be difficult for you. The video lecture and recitation WONT be enough to understand
+the entire course.

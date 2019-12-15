@@ -1,0 +1,33 @@
+Course Name: 
+Introduction to Computer Science and Programming inPython(Fall 2016)
+
+Course Code:
+6.0001
+
+Course Website:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+
+You can find:
+- lectures videos
+- assignments
+
+Missing:
+- Exams and Answers
+- Recitation/Tutorial(if any)
+
+What I have learned:
+-Python syntax
+-The very Basic Programming Concepts
+-Object Oriented Programming(OOP)
+-Recursion
+-Classes and Inheritance
+-search and sort
+
+Learning tips through OCW:
+The material of this course is rather complete. Video Lecture, assignments 
+and text book are sufficient for a beginner to get the main purpose of the course. 
+However, the assignment code are written in python2 which is not compatible with python3.
+Beginners may install the python2 environment in order to get started. 
+You may find this YouTube Tutorial(https://www.youtube.com/watch?v=56bPIGf4us0)
+and StackOverflow helpful.
+

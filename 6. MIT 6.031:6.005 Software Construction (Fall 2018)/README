@@ -1,0 +1,35 @@
+Course Name: 
+Software Construction(Fall 2018)
+
+Course Code:
+6.031
+
+Course Website:
+http://web.mit.edu/6.031/www/fa18/
+
+You can find:
+- lectures videos
+- assignments
+- exams and solution
+
+missing:
+- quiz solution
+- recitation
+- lab
+
+What I have learned(Only in a high level/ Conceptual level):
+- Java
+- Git
+- Testing strategy
+- Specification
+- Modularity by interface
+- Grammer and parser
+- Concurrency and Thread safety
+- Networking
+
+Learning tips through OCW:
+The material here are rather complete. Lecture Readings are sufficient for you to get
+the main idea of the course. Up to this point, you should be able to write single
+thread modules. And you should be very good at finding knowledge online. (documentations,
+StackOverflow, Wikipedia, YouTube, etc.)
+
